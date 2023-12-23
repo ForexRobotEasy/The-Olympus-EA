@@ -1,0 +1,50 @@
+
+//+------------------------------------------------------------------+
+//|                                                The Olympus EA    |
+//|                                                   forexroboteasy.com |
+//|                                            Forex Robot Easy Team |
+//+------------------------------------------------------------------+
+//|  Terms of Reference: Writing Code for The Olympus EA            |
+//|                                                                  |
+//|  1. Develop and implement the necessary trade functions to        |
+//|     support the eight refined strategies of The Olympus EA for    |
+//|     SPX500.                                                      |
+//|                                                                  |
+//|  2. Ensure that the code accurately reflects the meticulously     |
+//|     backtested and validated strategies, which have consistently  |
+//|     generated returns 10 to 15 times higher than the drawdown     |
+//|     during backtests.                                             |
+//|                                                                  |
+//|  3. Optimize the software for the dynamic market conditions of    |
+//|     the Forex trading environment, taking into consideration      |
+//|     the challenges of navigating the SPX500.                      |
+//|                                                                  |
+//|  4. Maintain a steady performance with a drawdown ratio of 1.69%  |
+//|     over the past year.                                           |
+//|                                                                  |
+//|  5. The code should be designed to provide reliable Forex returns  |
+//|     and consistent performance for traders.                       |
+//|                                                                  |
+//|  6. The technical specification should include only the necessary |
+//|     trade functions required to implement the algorithm, without  |
+//|     any additional requirements or text.                          |
+//|                                                                  |
+//|  7. The terms of reference should be concise, with a size of no   |
+//|     more than 1500-2000 characters.                               |
+//+------------------------------------------------------------------+
+
+// This is the main program for The Olympus EA
+int start()
+{
+    // Add your code here to implement the eight refined strategies for SPX500
+
+    // Implement backtested and validated strategies
+    
+    // Optimize the software for dynamic market conditions
+    
+    // Maintain steady performance with a drawdown ratio of 1.69%
+    
+    // Provide reliable Forex returns and consistent performance for traders
+    
+    return(0);
+}
